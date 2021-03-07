@@ -2,6 +2,7 @@
 
 <!--- Insert image here -->
 
+## About me
 ```js
 const JuanJoseMayorga = {
   pronouns: "he" | "him",
@@ -10,7 +11,7 @@ const JuanJoseMayorga = {
 }
 ```
 
-You can find me here 🌎:
+## You can find me here 🌎:
 - [Twitter](https://twitter.com/juanjosedev)
 - [LinkedIn](https://www.linkedin.com/in/juanjosedev)
 

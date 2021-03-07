@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+<!--- Insert image here -->
+
+```js
+const JuanJoseMayorga = {
+  pronouns: "he" | "him",
+  code: [Javascript, Typescript, HTML, CSS],
+  tools: [React, Redux, Node, Styled-Components, Jest]
+}
+```
+
 <!--
 **juanjosemayorga/juanjosemayorga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

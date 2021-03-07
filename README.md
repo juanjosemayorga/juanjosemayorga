@@ -1,4 +1,4 @@
-### Hi I'm Jose! 👋👓🪐
+### Hi I'm Jose! 👋🧔👓💻
 
 <!--- Insert image here -->
 
@@ -9,6 +9,10 @@ const JuanJoseMayorga = {
   tools: [React, Redux, Node, Styled-Components, Jest]
 }
 ```
+
+You can find me here 🌎:
+- [Twitter](https://twitter.com/juanjosedev)
+- [LinkedIn](https://www.linkedin.com/in/juanjosedev)
 
 <!--
 **juanjosemayorga/juanjosemayorga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I'm Jose! 👋👓🪐
 
 <!--- Insert image here -->
 

@@ -15,9 +15,6 @@ const JuanJoseMayorga = {
 - [Twitter](https://twitter.com/juanjosedev)
 - [LinkedIn](https://www.linkedin.com/in/juanjosedev)
 
-[![Jose's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanjosemayorga)](https://github.com/anuraghazra/github-readme-stats)
-
-
 <!--
 **juanjosemayorga/juanjosemayorga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

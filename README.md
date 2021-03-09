@@ -1,4 +1,5 @@
-### Hi I'm Jose! 👋🧔👓💻
+# Hi I'm Jose! 👋🧔👓💻
+
 
 <!--- Insert image here -->
 ![image](https://assets-juanjosemayorga-website.s3.amazonaws.com/images/portada-github.png)
@@ -8,8 +9,12 @@
 const JuanJoseMayorga = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS],
-  tools: [React, Redux, Node, Styled-Components, Jest]
+  tools: [React, Redux, Node, Styled-Components, Jest],
+  askMeAbout: ["web dev", "UI design", "app dev", "special effects", "cinema"],
+  favoriteColors: ["tomato", "cornflowerblue"]
 }
+
+export default JuanJoseMayorga
 ```
 
 ## You can find me here 🌎:

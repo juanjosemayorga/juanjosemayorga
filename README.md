@@ -2,7 +2,7 @@
 
 # Hi I'm Jose! 👋🧔👓💻
 
-
+</div>
 
 <!--- Insert image here -->
 ![image](https://assets-juanjosemayorga-website.s3.amazonaws.com/images/portada-github.png)
@@ -18,12 +18,15 @@ const JuanJoseMayorga = {
 }
 ```
 
+<div align="center">
+  
 ## You can find me here 🌎:
 [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/juanjosedev)
 &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/juanjosedev)
 &nbsp; <a href="mailto:devjuanjose@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
 
 </div>
+
 <!--
 **juanjosemayorga/juanjosemayorga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

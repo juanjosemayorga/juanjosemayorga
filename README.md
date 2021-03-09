@@ -7,6 +7,10 @@
 <!--- Insert image here -->
 ![image](https://assets-juanjosemayorga-website.s3.amazonaws.com/images/portada-github.png)
 
+Frontend Developer specialized in React.js. 🖥  
+I handle technologies like Javascript, React, React Native, Redux, Node.js and I am currently learning Flutter. 📱  
+I love UI design, technology, and special effects. 💙
+
 ## About me
 ```js
 const JuanJoseMayorga = {

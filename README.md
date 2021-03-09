@@ -1,6 +1,7 @@
 ### Hi I'm Jose! 👋🧔👓💻
 
 <!--- Insert image here -->
+![image](https://assets-juanjosemayorga-website.s3.amazonaws.com/images/portada-github.png)
 
 ## About me
 ```js

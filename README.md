@@ -13,8 +13,6 @@ const JuanJoseMayorga = {
   askMeAbout: ["web dev", "UI design", "app dev", "special effects", "cinema"],
   favoriteColors: ["tomato", "cornflowerblue"]
 }
-
-export default JuanJoseMayorga
 ```
 
 ## You can find me here 🌎:

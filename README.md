@@ -2,12 +2,11 @@
 
 # Hi I'm Jose! 👋🧔👓💻
 
-## Frontend Software Engineer
+Frontend Software Engineer
 
 </div>
 
 <!--- Insert image here -->
-![image](https://assets-juanjosemayorga-website.s3.amazonaws.com/images/portada-github.png)
 
 Frontend Developer specialized in React.js. 🖥  
 I handle technologies like Javascript, React, React Native, Next.js, Docker, PostgreSQL, Redux, Node.js 📱  

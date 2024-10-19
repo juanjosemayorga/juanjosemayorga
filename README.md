@@ -11,7 +11,7 @@
 
 Frontend Developer specialized in React.js. 🖥  
 I handle technologies like Javascript, React, React Native, Next.js, Docker, PostgreSQL, Redux, Node.js 📱  
-I love UI design, technology, and special effects. 💙
+I love UI design and Technology 💙
 
 ## About me
 ```js
@@ -19,7 +19,6 @@ const JuanJoseMayorga = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS],
   tools: [React, React Native, Next.js, Redux, Node, Styled-Components, Jest, React Testing library, Docker, PostgreSQL],
-  askMeAbout: ["web dev", "UI design", "app dev", "special effects", "cinema"],
   favoriteColors: ["tomato", "cornflowerblue"]
 }
 ```

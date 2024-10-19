@@ -16,7 +16,7 @@ I love UI design, technology, and special effects. 💙
 const JuanJoseMayorga = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS],
-  tools: [React, Redux, Node, Styled-Components, Jest],
+  tools: [React, React Native, Next.js, Redux, Node, Styled-Components, Jest, React Testing library, Docker, PostgreSQL],
   askMeAbout: ["web dev", "UI design", "app dev", "special effects", "cinema"],
   favoriteColors: ["tomato", "cornflowerblue"]
 }

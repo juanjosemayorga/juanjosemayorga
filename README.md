@@ -16,8 +16,8 @@ I love UI design and Technology 💙
 ```js
 const JuanJoseMayorga = {
   pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS],
-  tools: [React, React Native, Next.js, Redux, Node, Styled-Components, Jest, React Testing library, Docker, PostgreSQL],
+  code: [Javascript, Typescript, HTML, CSS, API REST],
+  tools: [React, React Native, Next.js, Redux, Node.js, Context API, Styled-Components, Jest, React Testing library, Docker, PostgreSQL, Storybook],
   favoriteColors: ["tomato", "cornflowerblue"]
 }
 ```

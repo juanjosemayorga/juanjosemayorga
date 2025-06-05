@@ -1,47 +1,53 @@
 <div align="center">
 
-# Hi I'm Jose! 👋🧔👓💻
+# Hi, I'm Jose! 👋🧠💻
 
-Frontend Software Engineer
+**Frontend Developer focused on building AI-powered, clean, and human-first interfaces.**  
+I care deeply about design, performance, and solving real problems with modern web technologies.
 
 </div>
 
-<!--- Insert image here -->
+---
 
-Frontend Developer specialized in React.js. 🖥  
-I handle technologies like Javascript, React, React Native, Next.js, Docker, PostgreSQL, Redux, Node.js 📱  
-I love UI design and Technology 💙
+🧠 **About me**
 
-## About me
+I'm a creative and adaptable frontend developer who embraces change and leads with empathy.
+
+Since the early days of AI integration, I’ve treated it as a superpower—using it not just to code faster, but to think better, learn faster, and ship smarter. I build beautiful, functional interfaces with a strong focus on usability, accessibility and clean design.
+
+I’m fluent in both English and Spanish, and I thrive in international, collaborative environments.
+
+---
+
+🛠️ **Tech I love working with**
 ```js
 const JuanJoseMayorga = {
   pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS, API REST],
-  tools: [React, React Native, Next.js, Redux, Node.js, Context API, Styled-Components, Jest, React Testing library, Docker, PostgreSQL, Storybook],
-  favoriteColors: ["tomato", "cornflowerblue"]
+  code: ["JavaScript", "TypeScript", "HTML", "CSS", "REST APIs"],
+  tools: ["React", "Next.js", "Tailwind CSS", "Zustand", "Node.js", "Prisma", "Auth0", "Storybook"],
+  testing: ["Jest", "React Testing Library"],
+  platforms: ["Vercel", "GitHub Actions", "Figma", "n8n", "PostgreSQL"],
+  vibes: ["clean UI", "fast UX", "AI-powered experiences", "empathy in code"]
 }
 ```
 
+---
+
+📚 **What I'm currently working on**
+- Building smart interfaces with AI integration
+- Designing clean, accessible UIs with Tailwind & Shadcn
+- Learning and teaching through content on blog posts and more
+- Keeping everything organized with strong project structure and reusable components
+
+---
+
+📫 **Let's connect**
+
 <div align="center">
-  
-## You can find me here 🌎:
+
 [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/juanjosedev)
 &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/juanjosedev)
-&nbsp; <a href="mailto:devjuanjose@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+&nbsp; [<img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>](mailto:devjuanjose@gmail.com)
+&nbsp; [🌐 juanjosemayorga.dev](https://juanjosemayorga.dev)
 
 </div>
-
-<!--
-**juanjosemayorga/juanjosemayorga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
